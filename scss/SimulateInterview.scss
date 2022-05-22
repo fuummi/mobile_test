@@ -1,0 +1,20 @@
+.content{
+    width: 100%;
+    margin-bottom: 3.7333rem;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    .item{
+        margin: auto;
+        a{
+            height: 33%;
+            display: block;
+            padding: 1.3333rem;
+            img{
+                width: 7.6667rem;
+            }
+        }
+    }
+    
+}

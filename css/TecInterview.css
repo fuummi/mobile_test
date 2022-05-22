@@ -1,0 +1,55 @@
+.content {
+  margin-bottom: 3.7333rem;
+}
+
+.content .common_item {
+  position: relative;
+  background-color: #fff;
+  padding: .5667rem;
+  margin-top: .08rem;
+}
+
+.content .common_item img {
+  display: inline-block;
+  vertical-align: top;
+  width: 5.8667rem;
+}
+
+.content .common_item .title {
+  position: absolute;
+  top: 0.8667rem;
+  left: 6.8667rem;
+  display: inline-block;
+  color: black;
+  background-color: #fff;
+  font-size: .8rem;
+  width: 60%;
+}
+
+.content .common_item .time {
+  position: absolute;
+  display: inline-block;
+  bottom: -1.6rem;
+  left: 0rem;
+  font-size: .4rem;
+  color: #707070;
+}
+
+.content .big_item {
+  position: relative;
+  background-color: #fff;
+  margin-top: .08rem;
+}
+
+.content .big_item img {
+  display: inline-block;
+  width: 93%;
+  padding: .5667rem .5667rem 0 .5667rem;
+}
+
+.content .big_item .title {
+  margin: 0;
+  color: black;
+  padding: 0 .7333rem .5667rem .7333rem;
+  font-size: .8rem;
+}

@@ -1,0 +1,32 @@
+.content {
+  width: 100%;
+  margin-bottom: 3.7333rem;
+  background-color: #fff;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.content .item {
+  margin: auto;
+}
+
+.content .item a {
+  height: 33%;
+  display: block;
+  padding: 1.3333rem;
+}
+
+.content .item a img {
+  width: 7.6667rem;
+}

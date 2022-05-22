@@ -1,0 +1,50 @@
+$grey :#707070;
+.content{
+    margin-bottom: 3.7333rem;
+    .common_item{
+        position: relative;
+        background-color: #fff;
+        padding: .5667rem;
+        margin-top: .08rem;
+        img{
+            display: inline-block;
+            vertical-align: top;
+            width: 5.8667rem;
+        }
+        .title{
+            position: absolute;
+            top:0.8667rem;
+            left: 6.8667rem;
+            display: inline-block;     
+            color: black;
+            background-color: #fff;
+            font-size: .8rem;
+            width: 60%;    
+        }
+        .time{
+            position: absolute;
+            display: inline-block;
+            bottom: -1.6rem;
+            left: 0rem;
+            font-size: .4rem;
+            color: $grey;
+        }
+    }
+    .big_item{
+        position: relative;
+        background-color: #fff;
+        margin-top: .08rem;
+        img{
+            display: inline-block;
+            width: 93%;
+            padding: .5667rem .5667rem 0 .5667rem;
+        }
+        .title{
+            margin: 0;
+            color: black;
+            padding: 0 .7333rem .5667rem .7333rem;
+            font-size: .8rem;
+
+        }
+    }
+}
